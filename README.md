@@ -8,5 +8,5 @@ How?
 - Apply the event Trigger on the widgets
 <br>
 
-Have a Look :<br>
+Have a Look :<br><br>
 <img src="https://github.com/BhawnaShishodia2223/Calculator-App/blob/master/calculator-gui.PNG">
